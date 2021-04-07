@@ -4,3 +4,7 @@ Soy un desarrollador recién titulado en **Desarrollo de Aplicaciones Multiplata
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44638858/113925302-c6e17700-97e2-11eb-9a73-4a152cb3affa.png" alt="albereadme"/>
 </p>
+
+💻 Trabajando en ATOS
+📫 Puedes contactarme en: abreulindealberto@gmail.com
+📚 Actualmente aprendiendo Angular + Firebase
