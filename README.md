@@ -53,9 +53,9 @@ Soy Alberto Linde, un Desarrollador Backend y Squad Lead en Advance Digital Expe
 <div style="display: flex; justify-content: center; align-items: center;">
   <!-- POKEMON START -->
 <!--  <div style="text-align: center; padding: 20px;">-->
-    <h3>FLORGES</h3>
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png" alt="FLORGES" style="width: 50%; max-width: 200px; margin: 0 auto;" />
-    <p style="font-size: 14px;">Pokemon Generated: 3</p>
+    <h3>GOLEM</h3>
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png" alt="GOLEM" style="width: 50%; max-width: 200px; margin: 0 auto;" />
+    <p style="font-size: 14px;">Pokemon Generated: 4</p>
 <!--  </div>-->
 <!-- POKEMON END -->
 
