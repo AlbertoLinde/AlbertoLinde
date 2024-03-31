@@ -10,7 +10,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/AlberALinde?style=for-the-badge&logo=twitter)](https://twitter.com/AlberALinde)
 ![Profile Views](https://komarev.com/ghpvc/?username=AlbertoLinde&style=for-the-badge) 
 ![GitHub Activity](https://img.shields.io/github/last-commit/AlbertoLinde/AlbertoLinde?style=for-the-badge)
-![GitHub Repository Size](https://img.shields.io/github/repo-size/AlbertoLinde/AlbertoLinde?style=for-the-badge)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/10771909/alberto-linde)
 
 ### Hi there! 👋
