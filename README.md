@@ -64,7 +64,7 @@ Soy Alberto Linde, un Desarrollador Backend y Squad Lead en Advance Digital Expe
 <!-- POKEMON END -->
       <td style="text-align: center; padding: 20px; border: none;">
         <a href="https://github.com/kittinan/spotify-github-profile">
-          <img src="https://spotify-github-profile.vercel.app/api/view?uid=albertoabreulinde&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" style="max-width: 200px; margin: 0 auto;" />
+          <img src="https://spotify-github-profile.vercel.app/api/view?uid=albertoabreulinde&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" style="width: 50%; max-width: 200px; margin: 0 auto;" />
         </a>
       </td>
     </tr>
