@@ -50,22 +50,23 @@ Soy Alberto Linde, un Desarrollador Backend y Squad Lead en Advance Digital Expe
 
 <h2 align="center">Daily Highlights</h2>
 
-<div style="display: flex; justify-content: center; align-items: center; width: 800px; margin: 0 auto;">
-  <div style="flex: 1; display: flex; justify-content: space-between; align-items: center; max-width: 600px;">
-<!-- POKEMON START -->
-  <div style="display: inline-block; margin: 0 auto; padding: 20px;">
-    <h3>MANTINE</h3>
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png" alt="MANTINE" style="width: 50%; max-width: 200px; margin: 0 auto;" />
-    <p style="font-size: 14px;">Pokemon Generated: 4</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <!-- POKEMON START -->
+  <div style="flex: 1; text-align: center; padding: 20px;">
+    <h3>PINSIR</h3>
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png" alt="PINSIR" style="width: 50%; max-width: 200px; margin: 0 auto;" />
+    <p style="font-size: 14px;">Pokemon Generated: 2</p>
   </div>
 <!-- POKEMON END -->
-  <div style="display: inline-block; margin: 0 auto; padding: 20px;">
-      <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=albertoabreulinde&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" style="max-width: 200px; margin: 0 auto;" />
-      </a>
-    </div>
+
+  <!-- Segundo elemento -->
+  <div style="flex: 1; text-align: center; padding: 20px;">
+    <a href="https://github.com/kittinan/spotify-github-profile">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=albertoabreulinde&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" style="max-width: 200px; margin: 0 auto;" />
+    </a>
   </div>
 </div>
+
 
 
 ## <div align="center">Connect With Me 🤝</div>
