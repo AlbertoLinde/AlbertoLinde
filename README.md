@@ -52,10 +52,13 @@ Soy Alberto Linde, un Desarrollador Backend y Squad Lead en Advance Digital Expe
 <table style="width: 800px; margin: 0 auto;">
   <tr>
     <td style="text-align: center; padding: 20px; width: 50%;">
-      <h3>PINSIR</h3>
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png" alt="PINSIR" width="200" style="display: block; margin: 0 auto;">
-      <p>Pokemon Generated: 2</p>
-    </td>
+<!-- POKEMON START -->
+<!--  <div style="text-align: center; padding: 20px;">-->
+    <h3>WEAVILE</h3>
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png" alt="WEAVILE" style="width: 50%; max-width: 200px; margin: 0 auto;" />
+    <p style="font-size: 14px;">Pokemon Generated: 3</p>
+<!--  </div>-->
+<!-- POKEMON END -->
     <td style="text-align: center; padding: 20px; width: 50%;">
       <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=albertoabreulinde&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" width="200" style="display: block; margin: 0 auto;">
@@ -63,11 +66,6 @@ Soy Alberto Linde, un Desarrollador Backend y Squad Lead en Advance Digital Expe
     </td>
   </tr>
 </table>
-
-
-
-
-
 
 ## <div align="center">Connect With Me 🤝</div>
 <div align="center">
