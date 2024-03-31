@@ -50,23 +50,23 @@ Soy Alberto Linde, un Desarrollador Backend y Squad Lead en Advance Digital Expe
 
 <h2 align="center">Daily Highlights</h2>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <!-- POKEMON START -->
+<!--  <div style="text-align: center; padding: 20px;">-->
+    <h3>FLORGES</h3>
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png" alt="FLORGES" style="width: 50%; max-width: 200px; margin: 0 auto;" />
+    <p style="font-size: 14px;">Pokemon Generated: 3</p>
+<!--  </div>-->
+<!-- POKEMON END -->
 
-<div style="display: flex; justify-content: center;">
-  <table style="border-collapse: collapse; margin: 0 auto;">
-    <tr style="border: none;">
-      <td style="text-align: center; padding: 20px; border: none; width: 50%;">
-        <h3>FEAROW</h3>
-        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png" alt="FEAROW" style="max-width: 200px; margin: 0 auto;" />
-        <p style="font-size: 14px;">Pokemon Generated: 9</p>
-      </td>
-      <td style="text-align: center; padding: 20px; border: none; width: 50%;">
-        <a href="https://github.com/kittinan/spotify-github-profile">
-          <img src="https://spotify-github-profile.vercel.app/api/view?uid=albertoabreulinde&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" style="max-width: 200px; margin: 0 auto;" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- Segundo elemento -->
+  <div style="flex: 1; text-align: center; padding: 20px;">
+    <a href="https://github.com/kittinan/spotify-github-profile">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=albertoabreulinde&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" style="max-width: 200px; margin: 0 auto;" />
+    </a>
+  </div>
 </div>
+
 
 
 ## <div align="center">Connect With Me 🤝</div>
