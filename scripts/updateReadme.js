@@ -32,17 +32,18 @@ async function updatePokemonSection(name, imageSrc) {
     const newNumber = currentNumber + 1;
 
     const newPokemonSection = `
-  <div style="text-align: center; padding: 20px;">
+<!--  <div style="text-align: center; padding: 20px;">-->
     <h3>${name}</h3>
     <img src="${imageSrc}" alt="${name}" style="width: 50%; max-width: 200px; margin: 0 auto;" />
     <p style="font-size: 14px;">Pokemon Generated: ${newNumber}</p>
-  </div>
+<!--  </div>-->
 `;
 
     const newReadme = readme.replace(pokemonSection, newPokemonSection);
     fs.writeFileSync('./README.md', newReadme, 'utf8');
     console.log('README updated successfully.');
   } catch (error) {
+    console.log('e', error)
     console.error('Error updating README:', error.message);
   }
 }
