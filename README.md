@@ -52,10 +52,10 @@ Soy Alberto Linde, un Desarrollador Backend y Squad Lead en Advance Digital Expe
 
 <div style="display: flex; justify-content: center; align-items: center; width: 800px; margin: 0 auto;">
   <!-- POKEMON START -->
-  <div style="flex: 1; padding: 20px; text-align: center;">
-    <h3>SHEDINJA</h3>
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png" alt="SHEDINJA" style="max-width: 200px; margin: 0 auto;" />
-    <p style="font-size: 14px;">Pokemon Generated: 3</p>
+  <div style="flex: 1; max-width: 300px; margin-right: 50px; padding: 20px; text-align: center;">
+    <h3>PINSIR</h3>
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png" alt="PINSIR" style="width: 50%; max-width: 200px; margin: 0 auto;" />
+    <p style="font-size: 14px;">Pokemon Generated: 2</p>
   </div>
 <!-- POKEMON END -->
   <div style="flex: 1; max-width: 300px; margin-left: 50px; padding: 20px; text-align: center;">

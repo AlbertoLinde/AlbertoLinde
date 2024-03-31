@@ -34,7 +34,7 @@ async function updatePokemonSection(name, imageSrc) {
     const newPokemonSection = `
   <div style="flex: 1; padding: 20px; text-align: center;">
     <h3>${name}</h3>
-    <img src="${imageSrc}" alt="${name}" style="max-width: 200px; margin: 0 auto;" />
+    <img src="${imageSrc}" alt="${name}" style="width: 50%; max-width: 200px; margin: 0 auto;" />
     <p style="font-size: 14px;">Pokemon Generated: ${newNumber}</p>
   </div>
 `;
