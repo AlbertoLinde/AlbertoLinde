@@ -1,0 +1,18 @@
+{
+  "name": "albertolinde",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlbertoLinde/AlbertoLinde.git"
+  },
+  "private": true,
+  "dependencies": {
+    "axios": "^1.6.8",
+    "node-fetch": "^3.3.2"
+  }
+}
