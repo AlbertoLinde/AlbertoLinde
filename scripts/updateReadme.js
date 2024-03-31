@@ -14,6 +14,7 @@ async function getPokemonOfTheDay() {
     const imageUrl = pokemonData.sprites.other['official-artwork'].front_default;
     return { name, imageUrl };
   } catch (error) {
+    console.log('ERROR', error)
     console.error('Error fetching Pokémon:', error.message);
     return null;
   }
@@ -34,7 +35,7 @@ async function updatePokemonSection(name, imageSrc) {
     const newPokemonSection = `
 <!--  <div style="text-align: center; padding: 20px;">-->
     <h3>${name}</h3>
-    <img src="${imageSrc}" alt="${name}" style="width: 50%; max-width: 200px; margin: 0 auto;" />
+    <img src="${imageSrc}" alt="${name}" width="200" style="display: block; margin: 0 auto;" />
     <p style="font-size: 14px;">Pokemon Generated: ${newNumber}</p>
 <!--  </div>-->
 `;
