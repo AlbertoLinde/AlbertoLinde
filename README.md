@@ -60,9 +60,9 @@ Soy Alberto Linde, un Desarrollador Backend y Squad Lead en Advance Digital Expe
     <td style="text-align: center; padding: 20px; width: 50%;">
 <!-- POKEMON START -->
 <!--  <div style="text-align: center; padding: 20px;">-->
-    <h3>CACNEA</h3>
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png" alt="CACNEA" width="200" style="display: block; margin: 0 auto;" />
-    <p style="font-size: 14px;">Pokemon Generated: 168</p>
+    <h3>MINUN</h3>
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png" alt="MINUN" width="200" style="display: block; margin: 0 auto;" />
+    <p style="font-size: 14px;">Pokemon Generated: 169</p>
 <!--  </div>-->
 <!-- POKEMON END -->
     <td style="text-align: center; padding: 20px; width: 50%;">
