@@ -60,9 +60,9 @@ Soy Alberto Linde, un Desarrollador Backend y Squad Lead en Advance Digital Expe
     <td style="text-align: center; padding: 20px; width: 50%;">
 <!-- POKEMON START -->
 <!--  <div style="text-align: center; padding: 20px;">-->
-    <h3>BINACLE</h3>
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png" alt="BINACLE" width="200" style="display: block; margin: 0 auto;" />
-    <p style="font-size: 14px;">Pokemon Generated: 580</p>
+    <h3>QUAGSIRE</h3>
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png" alt="QUAGSIRE" width="200" style="display: block; margin: 0 auto;" />
+    <p style="font-size: 14px;">Pokemon Generated: 581</p>
 <!--  </div>-->
 <!-- POKEMON END -->
     <td style="text-align: center; padding: 20px; width: 50%;">
